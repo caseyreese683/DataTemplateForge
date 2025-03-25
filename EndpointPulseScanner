@@ -1,0 +1,23 @@
+
+---
+
+### **2. 24_EndpointPulseScanner**  
+**Description:**  
+Checks the uptime and latency of API endpoints.
+
+#### **README.md**
+```markdown
+# EndpointPulseScanner - HTTP Availability Monitor
+
+EndpointPulseScanner is a fast CLI tool for checking response time, status codes, and availability of any API or website.
+
+## Features
+- Track multiple endpoints  
+- Latency + HTTP code log  
+- Optional CSV export  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_EndpointPulseScanner.git
+cd 24_EndpointPulseScanner
+python monitor.py
