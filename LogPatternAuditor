@@ -1,0 +1,23 @@
+
+---
+
+### **3. 24_LogPatternAuditor**  
+**Description:**  
+Scans logs for frequent messages, errors, and unusual events.
+
+#### **README.md**
+```markdown
+# LogPatternAuditor - Log Analysis CLI Tool
+
+LogPatternAuditor summarizes repeating log entries and flags lines matching warning/error keywords.
+
+## Features
+- Frequency breakdown  
+- Pattern-based grouping  
+- Easy command-line use  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_LogPatternAuditor.git
+cd 24_LogPatternAuditor
+python analyze.py server.log
