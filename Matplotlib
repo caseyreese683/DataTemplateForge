@@ -1,0 +1,23 @@
+
+---
+
+### **4. 24_StreamPlotMonitor**  
+**Description:**  
+Live-plotting tool to visualize real-time numeric input on a chart.
+
+#### **README.md**
+```markdown
+# StreamPlotMonitor - Real-Time Chart Visualizer
+
+StreamPlotMonitor builds animated graphs from numeric data streams like sensors, APIs, or simulations.
+
+## Features
+- Live Matplotlib plot  
+- Smooth line updates  
+- CLI integration  
+
+## Usage
+```bash
+git clone https://github.com/your-username/24_StreamPlotMonitor.git
+cd 24_StreamPlotMonitor
+python visualize.py
